@@ -133,7 +133,7 @@ export const projects = [
       "/images/projects/ApexDashboard/homenoir.png",
     ],
     stack: [
-      "react.svg",
+      "React.svg",
       "html5.svg",
       "css.svg",
       "typescript.svg",
