@@ -60,11 +60,8 @@ export const projects = [
     ],
     status: "done",
     links: {
-      live: "https://www.badam.app",
-      frontend: "https://github.com/didicodeX/BADAM.git",
-      backend: "https://github.com/didicodeX/BADAM_API.git",
-      figma:
-        "https://www.figma.com/design/ifQLDd44qbl82TqHvec2yz/%F0%9F%96%A5%EF%B8%8F-UI-Web?node-id=60-212&t=sSG9IC8AdUei5YX9-1",
+      frontend: "https://github.com/Adrinx/Task-List",
+      backend: "https://github.com/Adrinx/Task-List",
     },
   },
   {
@@ -85,8 +82,8 @@ export const projects = [
     status: "done",
     links: {
      
-      frontend: "https://github.com/Adrinx/Task-List",
-      backend: "https://github.com/Adrinx/Task-List",
+      frontend: "",
+      backend: "",
     },
   },
   {
