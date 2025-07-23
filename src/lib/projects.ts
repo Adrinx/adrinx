@@ -28,9 +28,9 @@ export const projects = [
     ],
     status: "done",
     links: {
-      live: "https://www.badam.app",
-      frontend: "https://github.com/didicodeX/BADAM.git",
-      backend: "https://github.com/didicodeX/BADAM_API.git",
+      live: "",
+      frontend: "https://github.com/Adrinx/foodifly",
+      backend: "https://github.com/Adrinx/foodifly-backend",
       figma:
         "https://www.figma.com/design/cwP2jrFjgyx6cPNygxtM5V/Projet?node-id=0-1&m=dev&t=31z6hWc54aqrrC5O-1",
     },
@@ -84,11 +84,9 @@ export const projects = [
     ],
     status: "done",
     links: {
-      live: "https://www.badam.app",
-      frontend: "https://github.com/didicodeX/BADAM.git",
-      backend: "https://github.com/didicodeX/BADAM_API.git",
-      figma:
-        "https://www.figma.com/design/ifQLDd44qbl82TqHvec2yz/%F0%9F%96%A5%EF%B8%8F-UI-Web?node-id=60-212&t=sSG9IC8AdUei5YX9-1",
+     
+      frontend: "https://github.com/Adrinx/Task-List",
+      backend: "https://github.com/Adrinx/Task-List",
     },
   },
   {
@@ -111,11 +109,8 @@ export const projects = [
     ],
     status: "done",
     links: {
-      live: "https://hommage-whvr.vercel.app/",
-      frontend: "https://github.com/didicodeX/Hommage.git",
-      backend: "https://github.com/didicodeX/Hommage_API.git",
-      figma:
-        "https://www.figma.com/design/x9WI8mvh7Gn3xgewRoP7jH/%F0%9F%95%8A%EF%B8%8F-UI-Web?m=auto",
+      frontend: "https://github.com/Adrinx/NewsApp",
+      backend: "https://github.com/Adrinx/NewsApp",
     },
   },
     {
@@ -134,6 +129,7 @@ export const projects = [
     ],
     stack: [
       "React.svg",
+      "nextjs.svg",
       "html5.svg",
       "css.svg",
       "typescript.svg",
@@ -141,8 +137,8 @@ export const projects = [
     ],
     status: "done",
     links: {
-      live: "https://hommage-whvr.vercel.app/",
-      frontend: "",
+      live: "https://adriancode-phi.vercel.app",
+      frontend: "https://github.com/Adrinx/adriancode",
       backend: "",
       figma:
         "",
